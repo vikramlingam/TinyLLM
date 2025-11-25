@@ -1,4 +1,4 @@
-# TinyLLM Setup and Usage Procedure
+# TinyLLM RAG and webui Setup and Usage Procedure
 
 This guide explains how to set up and use the TinyLLM system on your local machine. Follow these steps in order to get everything running.
 
