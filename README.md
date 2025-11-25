@@ -143,7 +143,4 @@ askTinyLLM("What is the capital of Japan?").then(answer => {
 - **Out of Memory**: Close other memory-intensive applications. This model requires ~1-2GB of RAM.
 - **Slow Generation**: Performance depends on your CPU. Ensure you are not running heavy background tasks.
 
-## 📚 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 Please refer to procedure.md for RAG and webui setup and usage instructions.
