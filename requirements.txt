@@ -1,0 +1,10 @@
+onnxruntime-genai
+huggingface-hub
+fastapi
+uvicorn
+numpy
+nicegui
+pypdf
+sentence-transformers
+faiss-cpu
+python-docx
