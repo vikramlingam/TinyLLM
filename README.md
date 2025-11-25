@@ -144,3 +144,5 @@ askTinyLLM("What is the capital of Japan?").then(answer => {
 - **Slow Generation**: Performance depends on your CPU. Ensure you are not running heavy background tasks.
 
 Please refer to procedure.md for RAG and webui setup and usage instructions.
+<img width="1724" height="1085" alt="image" src="https://github.com/user-attachments/assets/29dcb643-9f82-4741-a760-92399df598e7" />
+
